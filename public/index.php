@@ -52,4 +52,12 @@ $response = $kernel->handle(
     $request = Request::capture()
 )->send();
 
+
+//$response = $kernel->handle(
+//    $request = Request::capture()
+//);
+//dump($response);
+//$response->send();
+
+
 $kernel->terminate($request, $response);
