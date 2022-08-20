@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/json
+Date:          Sat, 20 Aug 2022 12:06:14 GMT
+
+{"customerName":"\u041f\u0435\u0442\u0440\u043e\u0432 \u0418\u0432\u0430\u043d\u043e\u0432","customerTel":"1234566","customerEmail":"parf@mail.ru","description":"\u043b\u043f\u043b\u043e\u043f\u043b\u043e\u043f\u0434\u043f\u043b\u0434\u0440"}
