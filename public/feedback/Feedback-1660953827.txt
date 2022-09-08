@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/json
+Date:          Sat, 20 Aug 2022 12:03:47 GMT
+
+{"senderName":"\u0435\u043d\u0443\u043a\u043d\u0443\u043d","senderEmail":"parf@mail.ru","message":"\u043f\u0430\u0440\u0430\u0432\u0440\u0432\u0430\u0440\u0432\u0430\u0440\u0432\u0430\u0440"}
