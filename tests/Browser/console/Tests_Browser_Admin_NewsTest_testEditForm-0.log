@@ -1,0 +1,14 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/laravel.local\/css\/dashboard.js - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1662329934333
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/laravel.local\/css\/dashboard.js - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1662329935157
+    }
+]
